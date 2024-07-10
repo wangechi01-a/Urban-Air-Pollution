@@ -19,6 +19,6 @@ Python: Python was used for its powerful capabilities in data preprocessing, fea
 
 Satellite Data Processing: Specialized tools and libraries were utilized to process and extract relevant information from Sentinel 5P satellite radar data, transforming raw satellite data into meaningful inputs for our models.
 
-Data Analysis:
+Data Analysis: Utilizing tools like NumPy and Pandas for data manipulation and analysis(Visualization).
 
 Machine Learning Models: Advanced regression models, specifically the LightGBM regressor, were implemented to predict air quality readings using both satellite and ground-based sensor data, providing more accurate and reliable predictions.
